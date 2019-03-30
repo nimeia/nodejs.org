@@ -94,12 +94,12 @@
       "text": "أدوات الإشراف"
     },
     "api-lts": {
-      "link": "/dist/latest-%ver-major%/docs/api",
+      "link": "/api",
       "subtext": "LTS",
       "text": "%ver% API"
     },
     "api-current": {
-      "link": "/dist/latest-%ver-major%/docs/api",
+      "link": "/latest-api",
       "text": "%ver% API"
     },
     "guides": {
